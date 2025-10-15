@@ -1,0 +1,7 @@
+*   a3cf1c9 (HEAD -> main, origin/main) Changed to Hello Crazy World
+|\  
+| * f9bd362 (origin/Happy, Happy) Changed to Hello Happy World
+* | 6c4ff8a Changed to Hello Very Crool World
+|/  
+* f6066a8 Changed to Hello Crool World
+* 32aa3b6 Hello World Program

@@ -1,0 +1,52 @@
+     1	17:24	git push
+     2	17:24	git add Makefile
+     3	17:25	cd labtask-06-AndrewZNelson16
+     4	17:25	cd
+     5	17:25	ls
+     6	17:25	cd labtask-06-AndrewZNelson16
+     7	17:25	ls
+     8	17:25	git add Makefile
+     9	17:25	git commit -m "Answers"
+    10	17:25	git push
+    11	18:24	mkdir GitLab
+    12	18:24	cd GitLab
+    13	18:24	echo '#include <stdio.h>
+    14	18:25	int main ( ) {
+    15	18:26	printf ( "Hello World!\\n" ) ;
+    16	18:26	return 0 ;
+    17	18:27	}' > HelloWorld.c
+    18	18:27	nano HelloWorld.c
+    19	18:29	git init
+    20	18:25	git add HelloWorld.c
+    21	18:30	git commit -m "Hello World Program"
+    22	18:31	git remote add origin https://github.com/AndrewZNelson16/CSC322-GitLab.git
+    23	18:31	git remote -v
+    24	18:33	git branc -M maine
+    25	18:33	git branch -M main
+    26	18:34	git push -u origin main
+    27	18:51	nano HelloWorld.c
+    28	18:53	git add HelloWorld.c
+    29	18:54	git commit -m "Changed to Hello Crool World"
+    30	18:54	git push
+    31	18:54	git branch Happy
+    32	18:54	git checkout Happy
+    33	18:54	git push -u origin Happy
+    34	18:54	nano HelloWorld.c
+    35	18:55	git add HelloWorld.c
+    36	18:55	git commit -m "Changed to Hello Happy World"
+    37	18:55	git psuh
+    38	18:55	git psuh
+    39	18:55	git push
+    40	18:55	git checkout main
+    41	18:55	nano HelloWorld.c
+    42	18:56	git add HelloWorld.c
+    43	18:56	git commit -m "Changed to Hello Very Crool World"
+    44	18:56	git push
+    45	18:56	git merge Happy
+    46	18:56	git push
+    47	18:56	nano HelloWorld.c
+    48	18:57	nano HelloWorld.c
+    49	18:58	git add HelloWorld.c
+    50	18:58	git commit -m "Changed to Hello Crazy World"
+    51	18:58	git push
+    52	18:58	history > GittingAlong.txt
